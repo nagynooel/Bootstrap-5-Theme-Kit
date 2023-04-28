@@ -1,0 +1,13 @@
+// Custom variables
+@import "variables";
+
+// Import Bootstrap functions, vars and mixins
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// Import our map amends
+@import "map-amends";
+
+// Bootstrap main import
+@import "~bootstrap/scss/bootstrap";
